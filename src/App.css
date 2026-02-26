@@ -1226,39 +1226,6 @@ button:hover {
   }
 }
 
-  .nav-icon-link svg {
-    width: 18px;
-    height: 18px;
-  }
-
-  .language-selector {
-    padding: 6px 8px;
-  }
-
-  .nav-menu {
-    gap: 12px;
-  }
-
-  .recently-viewed {
-    display: none;
-  }
-
-  .categories-grid {
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 24px;
-  }
-
-  .category-circle {
-    width: 120px;
-    height: 120px;
-  }
-
-  .category-item h3 {
-    font-size: 12px;
-    max-width: 120px;
-  }
-}
-
 @media (max-width: 1024px) {
   .recently-viewed {
     display: none;
